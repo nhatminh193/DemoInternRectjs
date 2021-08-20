@@ -1,0 +1,8 @@
+.container-fulid{
+      height: 50px;
+      background-color: rgba(105, 136, 214,0.75);
+      display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 150px;
+}
